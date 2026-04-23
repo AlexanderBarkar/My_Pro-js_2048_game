@@ -2,7 +2,7 @@
 # 2048 Game
 
 ## 🔗 Live Demo
-https://github.com/AlexanderBarkar/My_Pro-js_2048_game
+https://alexanderbarkar.github.io/My_Pro-js_2048_game/
 
 ## 🛠 Technologies
 - HTML
