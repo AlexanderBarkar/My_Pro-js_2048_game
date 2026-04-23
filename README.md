@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+
+# 2048 Game
+
+## 🔗 Live Demo
+https://github.com/AlexanderBarkar/My_Pro-js_2048_game
+
+## 🛠 Technologies
+- HTML
+- CSS
+- JavaScript
+
+## ▶️ How to run
+1. Clone repository
+2. Run `npm install`
+3. Run `npm start`
+
+## 🧩 Description
+Classic 2048 game built with vanilla JavaScript.
+Player combines tiles to reach 2048.
